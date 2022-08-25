@@ -24,7 +24,7 @@
 
 - :zap: free time is for learning something new
 
-- 👑: [snowhop](https://github.com/snowhop) CEO
+- 👑 [snowhop](https://github.com/snowhop) CEO
 
 ---
 
