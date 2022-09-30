@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-  product owner / manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  product owner / manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: interested in frontend developing
 
 - :seedling: exploring js & react.js
